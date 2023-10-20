@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm Szymon. I am a student of biomedical engineering, specializing in Computer Science and Medical Equipment at the Silesian University of Technology 🧑🏻‍🎓. I love skiing ⛷️ and taking beautiful drone shots 📹 in different parts of the world 🌎. 
+I'm Szymon. I am a student of Biomedical Engineering, specializing in Computer Science and Medical Equipment at the Silesian University of Technology 🧑🏻‍🎓. I love skiing ⛷️ and taking beautiful drone shots 📹 in different parts of the world 🌎. 
 I am passionate about broadly understood IT 🖳, and in particular cloud technology ☁️ and computer infrastructure. I would like to be part of the IT community so that the development of this field would be as fast as in the last few decades 🫂.
 <br>
 
